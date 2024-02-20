@@ -1,4 +1,4 @@
-# Password-generatr
+# Password-generator
 The Secure Password Generator is a Python project that offers a user-friendly graphical user interface (GUI) for generating strong and secure passwords. This project utilizes various modules and incorporates essential features to create robust passwords based on user-defined criteria while providing error handling through exception handling. The primary modules used are Tkinter for the GUI, the random module for generating random characters, and JSON for configuration settings.
 
 
